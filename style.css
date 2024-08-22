@@ -1,0 +1,36 @@
+/* Add styles here */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    color: #333;
+}
+
+h1 {
+    text-align: center;
+    color: blue;
+}
+
+#tasks {
+    margin: 20px;
+    padding: 0;
+}
+
+#tasks li {
+    list-style-type: none;
+    padding: 10px;
+    background-color: #fff;
+    margin-bottom: 5px;
+    border-left: 3px solid green;
+}
+
+button {
+    background-color: green;
+    color: #fff;
+    border: none;
+    padding: 10px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #555;
+}
