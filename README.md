@@ -29,6 +29,10 @@ Por favor para realizar la preuba tecnica tener en cuenta las siguientes instruc
 
 - Al terminar por favor comprimir el contenido en un archivo ZIP o RAR y adjuntarlo sobre el mismo correo donde recibio el link de este repositorio
 
+# PLUS:
+
+- Si tiene conocimientos de Git por favor realizar push con las respuestas
+
 
 Muchas gracias por participar y muchos exitos!
 
