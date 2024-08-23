@@ -1,36 +1,40 @@
-/* Add styles here */
-body {
-    font-family: Arial, sans-serif;
-    background-color: #f0f0f0;
-    color: #333;
+.container {
+    width: 60%;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ccc;
 }
 
 h1 {
     text-align: center;
-    color: blue;
 }
 
-#tasks {
-    margin: 20px;
-    padding: 0;
+form {
+    display: block;
+    background-color: #f9f9f9;
+    padding: 20px;
 }
 
-#tasks li {
-    list-style-type: none;
+label {
+    display: block;
+    margin-bottom: 8px;
+}
+
+input, textarea {
+    width: 100%;
     padding: 10px;
-    background-color: #fff;
-    margin-bottom: 5px;
-    border-left: 3px solid green;
+    margin-bottom: 15px;
+    border: 1px solid #ddd;
 }
 
 button {
-    background-color: green;
-    color: #fff;
+    background-color: #5cb85c;
+    color: white;
+    padding: 10px 20px;
     border: none;
-    padding: 10px;
     cursor: pointer;
 }
 
 button:hover {
-    background-color: #555;
+    background-color: #4cae4c;
 }
